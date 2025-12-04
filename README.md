@@ -1,1 +1,1 @@
-# Capstone_mini_Project2
+# Capstone_Motor_Control
