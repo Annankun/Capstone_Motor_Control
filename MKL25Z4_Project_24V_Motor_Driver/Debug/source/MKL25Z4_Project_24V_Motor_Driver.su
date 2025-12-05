@@ -1,0 +1,15 @@
+C:\Users\Zuri\Documents\MCUXpressoIDE_25.6.136\workspace\MKL25Z4_Project_24V_Motor_Driver\CMSIS/core_cm0plus.h:745:22:NVIC_EnableIRQ	16	static
+C:\Users\Zuri\Documents\MCUXpressoIDE_25.6.136\workspace\MKL25Z4_Project_24V_Motor_Driver\CMSIS/core_cm0plus.h:791:22:NVIC_ClearPendingIRQ	16	static
+C:\Users\Zuri\Documents\MCUXpressoIDE_25.6.136\workspace\MKL25Z4_Project_24V_Motor_Driver\CMSIS/core_cm0plus.h:804:22:NVIC_SetPriority	24	static
+../source/MKL25Z4_Project_24V_Motor_Driver.c:15:6:init_ports	8	static
+../source/MKL25Z4_Project_24V_Motor_Driver.c:23:6:init_clock_source	8	static
+../source/MKL25Z4_Project_24V_Motor_Driver.c:28:6:init_RGB_LED	8	static
+../source/MKL25Z4_Project_24V_Motor_Driver.c:62:6:init_pot	8	static
+../source/MKL25Z4_Project_24V_Motor_Driver.c:75:6:init_switch	8	static
+../source/MKL25Z4_Project_24V_Motor_Driver.c:89:6:init_motor	8	static
+../source/MKL25Z4_Project_24V_Motor_Driver.c:108:6:PORTD_IRQHandler	16	static
+../source/MKL25Z4_Project_24V_Motor_Driver.c:122:6:control_RGB_brightness	24	static
+../source/MKL25Z4_Project_24V_Motor_Driver.c:128:6:set_RGB_color	24	static
+../source/MKL25Z4_Project_24V_Motor_Driver.c:143:6:control_motor_speed	16	static
+../source/MKL25Z4_Project_24V_Motor_Driver.c:162:16:ADC_Read	8	static
+../source/MKL25Z4_Project_24V_Motor_Driver.c:175:5:main	24	static
